@@ -34,9 +34,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: Sairam K
+### Name:Dharuru Yogesh
 
-### Register Number: 212225240132
+### Register Number: 212224230063
 
 ```python
 climport torch
